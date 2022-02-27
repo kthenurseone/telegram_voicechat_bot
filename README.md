@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/uqdiRRoXABs" target="_blank"><img src="https://github.com/kthenurseone/telegram_voicechat_bot/blob/main/2.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/uqdiRRoXABs" target="_blank"><img src="https://github.com/kthenurseone/telegram_voicechat_bot/blob/main/1.png?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
@@ -23,16 +23,16 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 ## Features
 - Joins voice chat automatically.
+- Makes hype.
 
 
 
 ## Installation
-1) Get dextool link of your token
-2) Get token address of your token
-3) Paste them into the settings.txt
-4) Get proxies on the internet(free or paid)(I suggest to use paid because they are faster)
-5) That's all you can use it.
-I will help to install the program.
+1) Get dextool link of group
+2) Start voice chat on group
+3) Get licence from [@kthenurseone](https://t.me/kthenurseone)
+4) And run the bot.
+5) That's all, you are ready to go.
 
 
 ## Images
